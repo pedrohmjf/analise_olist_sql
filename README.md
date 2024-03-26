@@ -25,7 +25,7 @@ Este repositório esta organizado da seguinte maneira:
 
 Exemplo de um gráfico gerado no excel a partir do resultado da consulta em SQL:
 
-<img width="366" alt="grafico" src="https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/eeda02f8-7a17-4f55-8b45-2a7fd7bd9f5a">
+<img width="500" alt="grafico" src="https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/eeda02f8-7a17-4f55-8b45-2a7fd7bd9f5a">
 
 
 ## Conclusões
