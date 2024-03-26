@@ -16,9 +16,12 @@ Dentre as perguntas respondidas, estão:
 
 Para a resposta da primeira pergunta, por exemplo, foi gerada a seguinte _query_, com a respectiva saída e o gráfico traçado com ela:
 
-<img width="533" alt="Screenshot 2024-03-26 at 16 09 39" src="https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/8ede4a94-6912-4615-9ad7-8fd28384ae45">
+<img width="533" alt="query1" src="https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/8ede4a94-6912-4615-9ad7-8fd28384ae45">
+
 <img width="366" alt="tabela1" src="https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/3199c8c1-eca5-4c4a-9fc8-55480fdd1070">
-![Vendas ao longo do tempo (2)](https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/a007a807-0b3d-4863-973b-cd4d8ce31f6f)
+
+<img width="366" alt="grafico" src="https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/eeda02f8-7a17-4f55-8b45-2a7fd7bd9f5a">
+
 
 ## Conclusões
 
