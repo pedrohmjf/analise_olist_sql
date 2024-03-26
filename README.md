@@ -12,13 +12,18 @@ Dentre as perguntas respondidas, estão:
 - Quais são os vendedores que tiveram o maior número de pedidos cancelados?
 - Qual é a soma móvel de vendas ao longo do tempo para um dado produto?
 
+## Organização
+
+Este repositório esta organizado da seguinte maneira:
+
+* Uma pasta geral para as _queries_
+  * Dentro dela, há uma pasta para cada pergunta respondida
+    * Dentro de cada uma dessas pastas de perguntas, há a _query_ que foi escrita e uma imagem da tabela que resultou dessa query
+* Por fim, há um documento PDF com os gráficos que foram gerados com os resultados de cada _query_ e uma breve análise desses gráficos
+
 ## Exemplo
 
-Para a resposta da primeira pergunta, por exemplo, foi gerada a seguinte _query_, com a respectiva saída e o gráfico traçado com ela:
-
-<img width="533" alt="query1" src="https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/8ede4a94-6912-4615-9ad7-8fd28384ae45">
-
-<img width="366" alt="tabela1" src="https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/3199c8c1-eca5-4c4a-9fc8-55480fdd1070">
+Exemplo de um gráfico gerado no excel a partir do resultado da consulta em SQL:
 
 <img width="366" alt="grafico" src="https://github.com/pedrohmjf/analise_olist_sql/assets/126244260/eeda02f8-7a17-4f55-8b45-2a7fd7bd9f5a">
 
